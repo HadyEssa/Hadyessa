@@ -9,8 +9,6 @@ A Front-End Developer with expertise in HTML, CSS, Bootstrap, JavaScript, SASS, 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [hadyessa585@gmail.com](mailto:hadyessa585@gmail.com)
 * 🧠  I'm learning React, NextJs
-* ⚡  I'm batman (I'm The King of the night)
-
 ### Skills
 
 
