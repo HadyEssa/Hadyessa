@@ -16,8 +16,8 @@ European Study Discovery, live platform for finding European degree programs and
 
 ## Links
 
-- Live platform, msc-master-app.vercel.app/
-- Portfolio, hadyessa.vercel.app/
+- Live platform, https://msc-master-app.vercel.app/
+- Portfolio, https://hadyessa.vercel.app/
 ---
 
 ## Writing
