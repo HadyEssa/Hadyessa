@@ -34,4 +34,4 @@ React · Next.js · TypeScript · Tailwind · Zustand · Node.js · NestJS · Mo
 
 ---
 
-hadyessa585@gmail.com · www.linkedin.com/in/hady-essa · x.com/HadyEssa14
+hadyessa585@gmail.com · www.linkedin.com/in/hady-essa · www.x.com/HadyEssa14
